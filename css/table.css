@@ -1,0 +1,15 @@
+	table {
+	  border-collapse: collapse;
+	}
+	tr { 
+	  border: solid;
+	  border-width: 1px 0;
+	}
+	td{ 
+	  border: solid black;
+	  width:200px;
+	  //<!--border-width: 2px 1;-->
+	}
+	.data{
+		overflow-x:scroll;
+	}
